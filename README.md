@@ -39,12 +39,12 @@ This notebook enables the optimization of the previously developed neural networ
 ### live_demo.ipynb
 This notebook facilitates the replication of the Jetbot robot's behavior for collision avoidance.
 
-![example2](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/9ee254c1-09e4-473c-9739-739033b92642)
+![example2](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/19285eac-03b8-40fb-b510-db85e8e0bef5)
 
 ### live_demo_backward.ipynb
 This notebook employs additional strategies to circumvent obstacles that are in close proximity to the robot. Specifically, the task of collision avoidance is achieved by incorporating a reversing maneuver for the robot.
 
-![example3](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/523e0ede-0f23-47c5-aa7f-94d0660cc2f7)
+![example3](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/7dfa7fa2-6bb9-4ddc-9904-9bd21f019835)
 
 ## See Also
 - [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano
