@@ -5,7 +5,7 @@
 
 The objective of this repository is to implement a collision avoidance scenario using the JetRacer Pro AI Kit, drawing inspiration from the approach developed for the Jetbot robot, which enables it to stay within a rectangular area and navigate around obstacles.
 
-![](https://github.com/chentyra/jetracer-CollisionAvoidance/tree/main/images/example1.gif)
+![example1](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/055e61a2-cb15-43c5-a609-035c3ba8e9b4)
 
 Achieving collision avoidance with the JetRacer Pro AI Kit presents a significant challenge due to the fundamental differences between the JetRacer car and the [Jetbot robot](https://www.waveshare.com/jetbot-2gb-ai-kit.htm).
 
@@ -39,12 +39,12 @@ This notebook enables the optimization of the previously developed neural networ
 ### live_demo.ipynb
 This notebook facilitates the replication of the Jetbot robot's behavior for collision avoidance.
 
-![](https://github.com/chentyra/jetracer-CollisionAvoidance/tree/main/images/example2.gif)
+![example2](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/9ee254c1-09e4-473c-9739-739033b92642)
 
 ### live_demo_backward.ipynb
 This notebook employs additional strategies to circumvent obstacles that are in close proximity to the robot. Specifically, the task of collision avoidance is achieved by incorporating a reversing maneuver for the robot.
 
-![](https://github.com/chentyra/jetracer-CollisionAvoidance/tree/main/images/example3.gif)
+![example3](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/523e0ede-0f23-47c5-aa7f-94d0660cc2f7)
 
 ## See Also
 - [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano
