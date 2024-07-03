@@ -39,7 +39,7 @@ This notebook enables the optimization of the previously developed neural networ
 ### live_demo.ipynb
 This notebook facilitates the replication of the Jetbot robot's behavior for collision avoidance.
 
-![example2](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/19285eac-03b8-40fb-b510-db85e8e0bef5)
+![image](https://github.com/chentyra/jetracer-CollisionAvoidance/assets/68944703/5313bc85-0b71-4e2f-9087-0105ddc15b4f)
 
 ### live_demo_backward.ipynb
 This notebook employs additional strategies to circumvent obstacles that are in close proximity to the robot. Specifically, the task of collision avoidance is achieved by incorporating a reversing maneuver for the robot.
